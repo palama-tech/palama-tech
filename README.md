@@ -1,4 +1,4 @@
-Palama Technologies is a machine learning company that builds cost-effective, composable and secure machine learning models for use by enterprise clients. 
+Palama Technologies is a machine learning company that builds cost-effective, composable and secure machine learning models for use by enterprise clients.
 
 The GIF shows inference on a graph of retail product-locations (one product in one store). 
 - Learning is performed dynamically to track customer behaviours as they evolve through time.
